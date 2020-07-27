@@ -1,0 +1,33 @@
+body {
+  font-family: 'Mulish', sans-serif;
+}
+
+.nav-wrapper {
+  background-color: #6f4037;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #6f4037;
+}
+
+.parallax-container {
+  min-height: 280px;
+  height    : auto;
+}
+
+.move {
+  margin-top   : 60px;
+  margin-bottom: 20px;
+}
+
+.icon-coffee {
+  color: #6f4037;
+}
+
+.footer-one{
+    background-color: #6f4037;
+}
+
+.footer-two{
+    background-color: #441e16;
+}
